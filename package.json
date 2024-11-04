@@ -7,7 +7,7 @@
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview",
-  "start": "vite preview"
+  "start": "vite preview --host"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.7",
